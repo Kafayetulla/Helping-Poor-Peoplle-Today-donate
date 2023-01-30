@@ -1,0 +1,92 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.style{
+    text-align: center;
+    font-size: 20px;
+    margin: 1px 100px 1px 100px;
+}
+#style{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.colar{
+    text-decoration: none;
+    background-color: tomato;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    
+}
+.inline{
+    display:inline;
+    padding: 10px;
+    background-color: whitesmoke;
+    padding: 20px;
+    
+
+}
+#coloer-border{
+    color: tomato;
+    border: 3px solid tomato;
+    background-color: antiquewhite;
+}
+.color-underline{
+    font-size: 30px;
+    color:orange;
+    border-bottom: 1px solid chocolate;
+}
+.half-width{
+    display:flex;
+}
+
+#color3{
+    background-color:blanchedalmond;
+    margin: 10px 150px 10px 10px;
+    padding: 50px;
+}
+    
+#color1{
+    background-color: burlywood;
+    margin: 10px 10px 10px 150px;
+    padding: 50px;
+}
+    
+
+#color2{
+
+    background-color:tan;
+    margin: 10px 10px 10px 10px;
+    padding: 50px;
+}
+.desing{
+    margin: 30px 15px 20px 60px;
+}
+.desing1{
+    margin: 30px 80px 20px 45px;
+}
+#bag-color{
+    background-color: antiquewhite;
+    margin-left: 600px;
+    margin-right: 600px;
+    color: red;
+    padding-left: 8px;
+
+}
+#bag-color1{
+      background-color: tomato;
+      margin-left: 600px;
+      margin-right: 600px;
+      text-align: center;
+}
+.background{
+    display: inline;
+    background-color:gold;
+}
+.text-color{
+    text-align: center;
+    background-color: black;
+    color: tomato;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
